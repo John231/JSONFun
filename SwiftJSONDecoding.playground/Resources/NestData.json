@@ -7,7 +7,6 @@
             "pokemon":"Sunkern",
             "pokedexEntry":191,
             "verified": true
-            
         },
         {
             "id": 201613,
@@ -15,8 +14,7 @@
             "longitude": -1.104094,
             "pokemon": "Cyndaquil",
             "pokedexEntry": 155,
-            "verified": false
-            
+            "verified": false  
         },
         {
             "id": 184054,
